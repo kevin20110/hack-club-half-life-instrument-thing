@@ -9,3 +9,5 @@ the golden looking brick at the bottom is the keys and the sliders and joystick 
 now the instrument is probably meant to have a picture in real life but the website cant work properly and it's saturday while im writing this so I don't have the time to get the part shipped to me.
 so to compensate for that I will put a picture of the pcb design to flex my horrible wiring skills.
 <img width="952" height="981" alt="image" src="https://github.com/user-attachments/assets/bb3d8dab-0680-4108-80db-4a3f966d0286" />
+
+I think the project might be a bit dysfunctional.
